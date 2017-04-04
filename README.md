@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/universal-analytics.png?downloads=true)](https://www.npmjs.com/package/universal-analytics)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-universal-analytics/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-universal-analytics_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-universal-analytics/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-universal-analytics/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-universal-analytics_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-universal-analytics/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-universal-analytics/build/screenCapture.npmPackageListing.svg)
 
