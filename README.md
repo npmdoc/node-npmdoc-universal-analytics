@@ -1,6 +1,6 @@
 # npmdoc-universal-analytics
 
-#### api documentation for  [universal-analytics (v0.4.13)](https://github.com/peaksandpies/universal-analytics#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-universal-analytics.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-universal-analytics) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-universal-analytics.svg)](https://travis-ci.org/npmdoc/node-npmdoc-universal-analytics)
+#### basic api documentation for  [universal-analytics (v0.4.13)](https://github.com/peaksandpies/universal-analytics#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-universal-analytics.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-universal-analytics) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-universal-analytics.svg)](https://travis-ci.org/npmdoc/node-npmdoc-universal-analytics)
 
 #### A node module for Google's Universal Analytics tracking
 
@@ -68,7 +68,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "0.4.13"
+    "version": "0.4.13",
+    "bin": {}
 }
 ```
 
